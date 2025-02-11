@@ -25,7 +25,8 @@ from metagpt.ext.aflow.Debate.Debate_prompt import (
     Debate_prompt,
     moderator_prompt_meta,
     moderator_prompt,
-    final_judge
+    final_judge,
+    optimizer_logs_prompt,
 )
 
 key = "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"
@@ -52,13 +53,14 @@ class Debate:
         self.affirm_memory_lst = []
         self.neg_memory_lst = []
         self.judge_memory_lst = []
-        self.ini_prompt = optimizer_workflow_prompt.format(experience=experience,
+        self.ini_prompt2 = optimizer_workflow_prompt.format(experience=experience,
                                                            score=score,
                                                            graph=node_graph,
                                                            prompt=node_prompt,
                                                            operator_description=operator_description,
                                                            log=self.log_data,
                                                            )
+        self.ini_prompt = optimizer_logs_prompt.format(log=self.log_data)
         self.moderator_prompt_meta = moderator_prompt_meta.format(
                                                            graph=node_graph,
                                                            prompt=node_prompt,
@@ -113,6 +115,7 @@ class Debate:
             neg_modification=negative["modification"],
             neg_graph=negative["graph"],
             neg_prompt=negative["prompt"],
+            log=self.log_data,
         )
         self.mod_prompt.append({"role": "user", "content": mod_prompt_})
         self.mod =self.judge_query(self.mod_prompt)
@@ -156,6 +159,7 @@ class Debate:
                     neg_modification=negative["modification"],
                     neg_graph=negative["graph"],
                     neg_prompt=negative["prompt"],
+                    log=self.log_data
                 )
                 self.mod_prompt.append({"role": "user", "content": mod_prompt_})
                 self.mod = self.judge_query(self.mod_prompt)

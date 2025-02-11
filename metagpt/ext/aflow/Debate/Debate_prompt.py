@@ -65,6 +65,16 @@ Below are the logs of some results with the aforementioned Graph that performed 
 It is very important to format the Graph output answers, you can refer to the standard answer format in the log.
 """
 
+optimizer_logs_prompt = """You are a debater. Hello and welcome to the debate. It's not necessary to fully agree with each other's perspectives, as our objective is to find the correct answer.
+The debate topic is how to optimize the Graph and corresponding Prompt. You should analyze log data and come up with an optimization plan.
+
+Below are the logs of some results with the aforementioned Graph that performed well but encountered errors, which can be used as references for optimization:
+{log}
+
+It is very important to format the Graph output answers, you can refer to the standard answer format in the log.
+"""
+
+
 genera_output_prompt = """
 First, provide optimization ideas. **Only one detail point can be modified at a time**, and no more than 5 lines of code may be changed per modification—extensive modifications are strictly prohibited to maintain project focus!
 When introducing new functionalities in the graph, please make sure to import the necessary libraries or modules yourself, except for operator, prompt_custom, create_llm_instance, and CostManage, which have already been automatically imported.
@@ -98,7 +108,7 @@ Considering information loss, complex graphs may yield better results, but insuf
 """
 
 neg_prompt = """
-Below is my answer based on the initial graph and prompt, You disagree with my answer.
+Below is my answer based on the initial graph and prompt, You disagree with my answer. You have to consider whether my answer can solve the problems in the logs
 You must make further optimizations and improvements based on this graph. The modified graph must differ from the provided example, and the specific differences should be noted within the <modification>xxx</modification> section.
 <sample>
     <modification>{modification}</modification>
@@ -108,7 +118,7 @@ You must make further optimizations and improvements based on this graph. The mo
 """
 
 Debate_prompt ="""
-Below is my answer based on the initial graph and prompt. Do you agree with my perspective?
+Below is my answer based on the initial graph and prompt. Do you agree with my perspective? You have to consider whether my answer can solve the problems in the logs.
 You must make further optimizations and improvements based on this graph. The modified graph must differ from the provided example, and the specific differences should be noted within the <modification>xxx</modification> section.
 <sample>
     <modification>{modification}</modification>
@@ -144,6 +154,9 @@ Negative side arguing:
     <graph>{neg_graph}</graph>
     <prompt>{neg_prompt}</prompt>
 </neg_ans>
+
+Below are the logs of some results with the aforementioned Graph that performed well but encountered errors, which can be used as references for optimization:
+{log}
 
 You, as the moderator, will evaluate both sides' answers and determine if there is a clear preference for an answer candidate. If so, please output your supporting 'affirmative' or 'negative' side and give the final answer that you think is correct, and the debate will conclude. If not, just output 'No', the debate will continue to the next round.
 for examples: 'affirmative' , 'negative', 'No'

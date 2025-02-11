@@ -40,15 +40,18 @@ class EvaluationUtils:
                 is_test=False,
             )
 
+            optimizer.all_round_cost += total_cost
+
             cur_round = optimizer.round + 1 if initial is False else optimizer.round
 
-            new_data = optimizer.data_utils.create_result_data(cur_round, score, avg_cost, total_cost)
+            new_data = optimizer.data_utils.create_result_data(cur_round, score, avg_cost, total_cost, optimizer.all_round_cost)
             data.append(new_data)
 
             result_path = optimizer.data_utils.get_results_file_path(f"{optimizer.root_path}/workflows")
             optimizer.data_utils.save_results(result_path, data)
 
             sum_score += score
+
 
         return sum_score / validation_n
 

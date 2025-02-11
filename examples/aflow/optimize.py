@@ -69,9 +69,9 @@ def parse_args():
         help="Optimized result save path",
     )
     parser.add_argument("--initial_round", type=int, default=1, help="Initial round")
-    parser.add_argument("--max_rounds", type=int, default=20, help="Max iteration rounds")
+    parser.add_argument("--max_rounds", type=int, default=10, help="Max iteration rounds")
     parser.add_argument("--check_convergence", type=bool, default=True, help="Whether to enable early stop")
-    parser.add_argument("--validation_rounds", type=int, default=2, help="Validation rounds")
+    parser.add_argument("--validation_rounds", type=int, default=3, help="Validation rounds")
     parser.add_argument(
         "--if_first_optimize",
         type=lambda x: x.lower() == "true",
@@ -99,7 +99,7 @@ if __name__ == "__main__":
     config = EXPERIMENT_CONFIGS[args.dataset]
 
     models_config = ModelsConfig.default()
-    opt_llm_config1 = models_config.get("claude-3-5-sonnet-20240620")
+    opt_llm_config1 = models_config.get("gpt-4o-mini")
     opt_llm_config2 = models_config.get("claude-3-5-sonnet-20240620")
     judge =  models_config.get("claude-3-5-sonnet-20240620")
     exec_llm_config = models_config.get("gpt-4o-mini")

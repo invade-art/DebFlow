@@ -78,6 +78,8 @@ class Optimizer:
         self.evaluation_utils = EvaluationUtils(self.root_path)
         self.convergence_utils = ConvergenceUtils(self.root_path)
 
+        self.all_round_cost = 0
+
     def optimize(self, mode: OptimizerType = "Graph"):
         if mode == "Test":
             test_n = 3  # validation datasets's execution number
