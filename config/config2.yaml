@@ -31,14 +31,20 @@ models:
     base_url: "https://api.openai.com/v1"
     api_key: "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"
     temperature: 0
- "deepseek-chat":
+ "deepseek-reasoner":
     api_type: "openai"
-    base_url: "https://api.deepseek.com"
-    api_key: "sk-7631eaf2fc9a4d66b29d2d100bb65931"
+    base_url: "https://api.deepseek.com/v1"
+    api_key: "sk-509d832659e64e73bcb61fc420bf4910"
     temperature: 0
  "gpt-3.5-turbo-0125":
     api_type: "openai"
     base_url: "https://api.openai.com/v1"
     api_key: "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"
     temperature: 0
+ "deepseek-chat":
+    api_type: "openai"
+    base_url: "https://api.deepseek.com/v1"
+    api_key: "sk-509d832659e64e73bcb61fc420bf4910"
+    temperature: 0
+
 CALC_USAGE: True

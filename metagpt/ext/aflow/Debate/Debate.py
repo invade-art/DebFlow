@@ -27,6 +27,7 @@ from metagpt.ext.aflow.Debate.Debate_prompt import (
     moderator_prompt,
     final_judge,
     optimizer_logs_prompt,
+    moderator_logs_meta,
 )
 
 key = "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"
@@ -61,10 +62,11 @@ class Debate:
                                                            log=self.log_data,
                                                            )
         self.ini_prompt = optimizer_logs_prompt.format(log=self.log_data)
-        self.moderator_prompt_meta = moderator_prompt_meta.format(
+        self.moderator_prompt_meta2 = moderator_prompt_meta.format(
                                                            graph=node_graph,
                                                            prompt=node_prompt,
                                                            )
+        self.moderator_prompt_meta = moderator_logs_meta.format(log=self.log_data)
         self.mod_prompt = [{"role": "system", "content": f"{self.moderator_prompt_meta}"}]
         self.mod = {}
 
@@ -124,7 +126,7 @@ class Debate:
         print('++++++++++++++++++++++++++++++++++++++++++++++++mod++++++++++++++++++++++++++++++++++++++')
         print(self.mod)
 
-        for i in range(3):
+        for i in range(2):
             if self.mod != 'No':
                 if self.mod == 'affirmative':
                     return self.affirm_memory_lst[-1]

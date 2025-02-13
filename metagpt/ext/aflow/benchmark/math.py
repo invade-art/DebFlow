@@ -11,6 +11,7 @@ from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_fi
 
 from metagpt.ext.aflow.benchmark.benchmark import BaseBenchmark
 from metagpt.logs import logger
+from metagpt.ext.aflow.benchmark.utils import find_same
 
 
 class MATHBenchmark(BaseBenchmark):
@@ -51,6 +52,14 @@ class MATHBenchmark(BaseBenchmark):
 
         try:
             return self.symbolic_equal(prediction, reference)
+        except:
+            pass
+
+        try:
+            return find_same({
+                "right_answer":reference,
+                "model_output":prediction
+            })
         except:
             pass
 

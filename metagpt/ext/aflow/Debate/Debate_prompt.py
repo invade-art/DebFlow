@@ -139,8 +139,21 @@ The debate topic is how to optimize the Graph and corresponding Prompt.
 At the end of each round, you will evaluate answers and decide which is correct.
 """
 
+moderator_logs_meta = """
+You are a moderator. There will be two debaters involved in a debate. 
+They will present their answers and discuss their perspectives on the following topic: 
+The debate topic is how to optimize the Graph and corresponding Prompt.
+
+Below are the logs of some results with the aforementioned Graph that performed well but encountered errors, which can be used as references for optimization:
+{log}
+
+At the end of each round, you will evaluate answers and decide which is correct.
+"""
+
 moderator_prompt = """
 Now the round of debate for both sides has ended.
+You have to consider which side of the workflow will not have problems in the logs after execution.
+
 Affirmative side arguing:
 <aff_ans>
     <modification>{aff_modification}</modification>
@@ -155,9 +168,6 @@ Negative side arguing:
     <prompt>{neg_prompt}</prompt>
 </neg_ans>
 
-Below are the logs of some results with the aforementioned Graph that performed well but encountered errors, which can be used as references for optimization:
-{log}
-
 You, as the moderator, will evaluate both sides' answers and determine if there is a clear preference for an answer candidate. If so, please output your supporting 'affirmative' or 'negative' side and give the final answer that you think is correct, and the debate will conclude. If not, just output 'No', the debate will continue to the next round.
 for examples: 'affirmative' , 'negative', 'No'
 """
@@ -166,6 +176,7 @@ x = 'Now please output your answer in json format, with the format as follows:  
 
 final_judge = """
 Now the round of debate for both sides has ended.
+You have to consider which side of the workflow will not have problems in the logs after execution.
 Affirmative side arguing:
 <aff_ans>
     <modification>{aff_modification}</modification>

@@ -69,7 +69,7 @@ def parse_args():
         help="Optimized result save path",
     )
     parser.add_argument("--initial_round", type=int, default=1, help="Initial round")
-    parser.add_argument("--max_rounds", type=int, default=10, help="Max iteration rounds")
+    parser.add_argument("--max_rounds", type=int, default=20, help="Max iteration rounds")
     parser.add_argument("--check_convergence", type=bool, default=True, help="Whether to enable early stop")
     parser.add_argument("--validation_rounds", type=int, default=3, help="Validation rounds")
     parser.add_argument(
@@ -124,6 +124,7 @@ if __name__ == "__main__":
 
     # Optimize workflow via setting the optimizer's mode to 'Graph'
     optimizer.optimize("Graph")
+
 
     # Test workflow via setting the optimizer's mode to 'Test'
     # optimizer.optimize("Test")

@@ -202,7 +202,7 @@ class Optimizer:
         return avg_score
 
     async def test(self):
-        rounds = [10]  # You can choose the rounds you want to test here.
+        rounds = [8]  # You can choose the rounds you want to test here.
         data = []
 
         graph_path = f"{self.root_path}/workflows_test"
@@ -219,7 +219,7 @@ class Optimizer:
 
             score, avg_cost, total_cost = await self.evaluation_utils.evaluate_graph_test(self, directory, is_test=True)
 
-            new_data = self.data_utils.create_result_data(round, score, avg_cost, total_cost)
+            new_data = self.data_utils.create_result_data(round, score, avg_cost, total_cost, 0)
             data.append(new_data)
 
             self.data_utils.save_results(json_file_path, data)

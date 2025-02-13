@@ -7,6 +7,7 @@ from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_fi
 
 from metagpt.ext.aflow.benchmark.benchmark import BaseBenchmark
 from metagpt.logs import logger
+from metagpt.ext.aflow.benchmark.utils import find_same
 
 
 class HotpotQABenchmark(BaseBenchmark):
@@ -60,7 +61,13 @@ class HotpotQABenchmark(BaseBenchmark):
             if (
                 score < 0.3
             ):  # We set the threshold for collecting incorrect questions to 0.3, as F1 Score cannot be simply judged using 0-1
-                self.log_mismatch(input_text, expected_output, output, extracted_output)
+                if not find_same({
+                "right_answer":expected_output,
+                "model_output":extracted_output
+                }):
+                    self.log_mismatch(input_text, expected_output, output, extracted_output)
+                else:
+                    score = 1
 
             return input_text, context_str, output, expected_output, score, cost
 
