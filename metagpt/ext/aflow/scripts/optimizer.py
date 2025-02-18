@@ -18,6 +18,7 @@ from metagpt.ext.aflow.scripts.optimizer_utils.experience_utils import Experienc
 from metagpt.ext.aflow.scripts.optimizer_utils.graph_utils import GraphUtils
 from metagpt.logs import logger
 from metagpt.provider.llm_provider_registry import create_llm_instance
+from metagpt.utils.cost_manager import CostManager
 from metagpt.ext.aflow.Debate.Debate import Debate
 
 QuestionType = Literal["math", "code", "qa"]
@@ -49,9 +50,12 @@ class Optimizer:
     ) -> None:
         self.optimize_llm_config = opt_llm_config
         self.optimize_llm = create_llm_instance(self.optimize_llm_config)
+        self.optimize_llm.cost_manager = CostManager()
 
         self.optimize_llm_config2 = opt_llm_config2
         self.optimize_llm2 = create_llm_instance(self.optimize_llm_config2)
+        self.optimize_llm2.cost_manager = CostManager()
+
 
         self.judge_config = judge
         self.judge = create_llm_instance(self.judge_config)
@@ -124,11 +128,18 @@ class Optimizer:
                 logger.info(
                     f"Convergence detected, occurred in round {convergence_round}, final round is {final_round}"
                 )
+                logger.info(
+                    f"convergence training cost: opt1: {self.optimize_llm.cost_manager.total_cost}, opt2: {self.optimize_llm2.cost_manager.total_cost}, all :{self.optimize_llm.cost_manager.total_cost + self.optimize_llm.cost_manager.total_cost}"
+                )
                 # Print average scores and standard deviations for each round
                 self.convergence_utils.print_results()
                 break
 
             time.sleep(5)
+
+        logger.info(
+            f"final training cost: opt1: {self.optimize_llm.cost_manager.total_cost}, opt2: {self.optimize_llm2.cost_manager.total_cost}, all :{self.optimize_llm.cost_manager.total_cost + self.optimize_llm.cost_manager.total_cost}"
+        )
 
     async def _optimize_graph(self):
         validation_n = self.validation_rounds  # validation datasets's execution number
@@ -163,18 +174,18 @@ class Optimizer:
             )
 
 
-            #使用上面的prompt来进行优化
-            # graph_optimize_node = await ActionNode.from_pydantic(GraphOptimize).fill(
-            #     context=graph_optimize_prompt, mode="xml_fill", llm=self.optimize_llm
-            # )
-            #
-            # response = await self.graph_utils.get_graph_optimize_response(graph_optimize_node)
+            # 使用上面的prompt来进行优化
+            graph_optimize_node = await ActionNode.from_pydantic(GraphOptimize).fill(
+                context=graph_optimize_prompt, mode="xml_fill", llm=self.optimize_llm
+            )
+
+            response = await self.graph_utils.get_graph_optimize_response(graph_optimize_node)
 
             #Debate
-            debate = Debate(prompt=graph_optimize_prompt, mode='xml_fill', llm1=self.optimize_llm, llm2=self.optimize_llm2, judge=self.judge,
-                            optimizer=self, log_data=log_data, experience=experience, score=sample["score"],
-                            operator_description=operator_description, types=self.type, node_graph=graph[0], node_prompt=prompt)
-            response =await debate.run()
+            # debate = Debate(prompt=graph_optimize_prompt, mode='xml_fill', llm1=self.optimize_llm, llm2=self.optimize_llm2, judge=self.judge,
+            #                 optimizer=self, log_data=log_data, experience=experience, score=sample["score"],
+            #                 operator_description=operator_description, types=self.type, node_graph=graph[0], node_prompt=prompt)
+            # response =await debate.run()
             print("================================================debate response==========================================================")
             print(response)
             # Check if the modification meets the conditions

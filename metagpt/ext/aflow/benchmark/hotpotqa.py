@@ -58,16 +58,19 @@ class HotpotQABenchmark(BaseBenchmark):
             output, cost = await self._generate_output(graph, inputs)
             score, extracted_output = self.calculate_score(expected_output, output)
 
+            q = {
+                "right_answer":expected_output,
+                "model_output":extracted_output
+                }
+
             if (
                 score < 0.3
             ):  # We set the threshold for collecting incorrect questions to 0.3, as F1 Score cannot be simply judged using 0-1
-                if not find_same({
-                "right_answer":expected_output,
-                "model_output":extracted_output
-                }):
-                    self.log_mismatch(input_text, expected_output, output, extracted_output)
-                else:
+                flag = await find_same(q)
+                if flag:
                     score = 1
+                else:
+                    self.log_mismatch(input_text, expected_output, output, extracted_output)
 
             return input_text, context_str, output, expected_output, score, cost
 

@@ -67,28 +67,37 @@ def log_mismatch(problem, expected_output, prediction, predicted_number, path):
     write_json_file(log_file, data, encoding="utf-8", indent=4)
 
 
-def find_same(q):
+async def find_same(q):
 
-    client = OpenAI(api_key="sk-509d832659e64e73bcb61fc420bf4910", base_url="https://api.deepseek.com")
-    prompt = """Compare the final answers in right_answer and model_output. Determine if they are consistent. Return only True if the answers match exactly, otherwise return False. Do not provide any explanation.
-                {q}
-              """
+        client = OpenAI(api_key="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", base_url="https://api.openai.com/v1")
+        prompt = """Compare the final answers in right_answer and model_output. Ignore any additional explanations or reasoning in model_output. 
+                    If the final answer in model_output is logically consistent with right_answer, return only True. Otherwise, return False. 
+                    Do not provide any explanation.
+                    {q}
+                  """
 
-    response = client.chat.completions.create(
-        model="deepseek-chat",
-        messages=[
-            {"role": "user", "content": prompt.format(q=q)},
-        ],
-        stream=False
-    )
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "user", "content": prompt.format(q=q)},
+            ],
+            stream=False
+        )
 
-    if response.choices[0].message.content == 'True':
-        return True
-    else:
-        return False
+        if response.choices[0].message.content == 'True':
+            return True
+        else:
+            return False
 
-# find_same({
-#     "right_answer": "If its initial value was $x$, after Monday, its value is $.9x$, and after a further $20\\%$ loss, its value becomes $.8\\cdot .9x = .72x$, making for a total loss of $\\boxed{28\\%}$.",
-#     "model_output": "Let the initial value of the stock at the beginning of Monday be \\( V \\).\n\nOn Monday, the stock loses \\( 10\\% \\) of its value. The amount lost on Monday is:\n\n\\[\n0.10 \\times V = 0.1V\n\\]\n\nThus, the value of the stock at the end of Monday is:\n\n\\[\nV - 0.1V = 0.9V\n\\]\n\nOn Tuesday, the stock loses \\( 20\\% \\) of its value at the end of Monday. The value at the end of Monday is \\( 0.9V \\), so the amount lost on Tuesday is:\n\n\\[\n0.20 \\times 0.9V = 0.18V\n\\]\n\nTherefore, the value of the stock at the end of Tuesday is:\n\n\\[\n0.9V - 0.18V = 0.72V\n\\]\n\nNow, we need to find the overall percent loss from the initial value \\( V \\) to the final value \\( 0.72V \\).\n\nThe overall loss in value is:\n\n\\[\nV - 0.72V = 0.28V\n\\]\n\nTo find the percent loss, we calculate:\n\n\\[\n\\text{Percent loss} = \\left( \\frac{\\text{Loss}}{\\text{Initial value}} \\right) \\times 100\\% = \\left( \\frac{0.28V}{V} \\right) \\times 100\\% = 28\\%\n\\]\n\nThus, the overall percent loss in value from the beginning of Monday to the end of Tuesday is:\n\n\\[\n\\boxed{28}\n\\]",
+
+async def main():
+    t = await find_same({"right_answer": "Raffaella Reggi",
+        "model_output": "To answer this question, I'll compare the birth dates of Lucie Hradecká and Raffaella Reggi:\n\n1. Lucie Hradecká was born on 21 May 1985.\n2. Raffaella Reggi was born on 27 November 1965.\n\nRaffaella Reggi was born first, as her birth year (1965) is earlier than Lucie Hradecká's birth year (1985).",
+        })
+
+    print(t)
+
 #
-# })
+# import asyncio  # 需要导入 asyncio
+#
+# asyncio.run(main())  # 正确运行 async 函数
