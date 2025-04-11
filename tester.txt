@@ -34366,3 +34366,4724 @@ test_error of Diff
 test_error of average_tuple
 test_error of average_tuple
 test_error of average_tuple
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of largest_divisor
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+order_by_points name 'nums' is not defined
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of do_algebra
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+do_algebra pop from empty list
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+even_odd_count invalid syntax (<string>, line 2)
+digitSum invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+rolling_max invalid syntax (<string>, line 2)
+compare invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+test_error of order_by_points
+string_sequence invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+test_error of order_by_points
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+special_factorial invalid syntax (<string>, line 2)
+is_prime invalid syntax (<string>, line 2)
+sort_numbers invalid syntax (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+test_error of order_by_points
+fib invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+do_algebra invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+is_multiply_prime invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+digits invalid syntax (<string>, line 2)
+max_fill invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+is_nested invalid syntax (<string>, line 2)
+check_dict_case invalid syntax (<string>, line 2)
+how_many_times invalid syntax (<string>, line 2)
+test_error of is_nested
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+even_odd_count invalid syntax (<string>, line 2)
+digitSum invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+how_many_times invalid syntax (<string>, line 2)
+rolling_max invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+compare invalid syntax (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+is_prime invalid syntax (<string>, line 2)
+digits invalid syntax (<string>, line 2)
+special_factorial invalid syntax (<string>, line 2)
+is_multiply_prime invalid syntax (<string>, line 2)
+sort_numbers invalid syntax (<string>, line 2)
+check_dict_case invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+is_nested invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+do_algebra invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of is_nested
+get_positive invalid syntax (<string>, line 2)
+test_error of order_by_points
+max_fill invalid syntax (<string>, line 2)
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+string_sequence invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+digits invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+rolling_max invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+compare invalid syntax (<string>, line 2)
+digitSum invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+test_error of order_by_points
+largest_divisor invalid syntax (<string>, line 2)
+sort_numbers invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+max_fill invalid syntax (<string>, line 2)
+test_error of order_by_points
+remove_vowels invalid syntax (<string>, line 2)
+check_dict_case invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+is_nested invalid syntax (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+special_factorial invalid syntax (<string>, line 2)
+test_error of order_by_points
+how_many_times invalid syntax (<string>, line 2)
+is_multiply_prime invalid syntax (<string>, line 2)
+test_error of is_nested
+test_error of is_nested
+is_prime invalid syntax (<string>, line 2)
+do_algebra invalid syntax (<string>, line 2)
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+max_fill name 'math' is not defined
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_dict_case
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+do_algebra pop from empty list
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+hex_key invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+compare invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+max_fill invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+rolling_max invalid syntax (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+special_factorial invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+digitSum invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+check_dict_case invalid syntax (<string>, line 2)
+is_prime invalid syntax (<string>, line 2)
+is_multiply_prime invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+can_arrange invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+do_algebra invalid syntax (<string>, line 2)
+is_nested invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+how_many_times invalid syntax (<string>, line 2)
+test_error of order_by_points
+sort_numbers EOL while scanning string literal (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of do_algebra
+test_error of do_algebra
+digits invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+special_factorial invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+compare invalid syntax (<string>, line 2)
+digitSum invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+is_multiply_prime invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+is_prime invalid syntax (<string>, line 2)
+rolling_max invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+max_fill invalid syntax (<string>, line 2)
+is_nested invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+digits invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+do_algebra invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+test_error of is_nested
+check_dict_case EOL while scanning string literal (<string>, line 2)
+sort_numbers EOL while scanning string literal (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+how_many_times invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+test_error of words_string
+test_error of words_string
+string_sequence invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+compare invalid syntax (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+special_factorial invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+digitSum invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+is_nested invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+rolling_max invalid syntax (<string>, line 2)
+do_algebra invalid syntax (<string>, line 2)
+check_dict_case invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+is_multiply_prime invalid syntax (<string>, line 2)
+test_error of order_by_points
+can_arrange invalid syntax (<string>, line 2)
+test_error of is_nested
+sort_numbers EOL while scanning string literal (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+how_many_times invalid syntax (<string>, line 2)
+test_error of is_multiply_prime
+test_error of check_if_last_char_is_a_letter
+words_string invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of do_algebra
+is_prime invalid syntax (<string>, line 2)
+test_error of order_by_points
+max_fill invalid syntax (<string>, line 2)
+digits invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+even_odd_count invalid character '¡¯' (U+2019) (<string>, line 2)
+hex_key invalid character '¡¯' (U+2019) (<string>, line 2)
+is_prime invalid syntax (<string>, line 2)
+count_distinct_characters EOL while scanning string literal (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+string_sequence EOL while scanning string literal (<string>, line 2)
+digitSum invalid character '¡¯' (U+2019) (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter EOL while scanning string literal (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+digits invalid character '¡¯' (U+2019) (<string>, line 2)
+compare EOL while scanning string literal (<string>, line 2)
+order_by_points EOL while scanning string literal (<string>, line 2)
+special_factorial invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+how_many_times EOL while scanning string literal (<string>, line 2)
+is_multiply_prime invalid character '¡¯' (U+2019) (<string>, line 2)
+is_nested EOL while scanning string literal (<string>, line 2)
+count_upper invalid character '¡¯' (U+2019) (<string>, line 2)
+max_fill EOL while scanning string literal (<string>, line 2)
+sort_numbers invalid syntax (<string>, line 2)
+do_algebra EOL while scanning string literal (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+test_error of order_by_points
+can_arrange EOL while scanning string literal (<string>, line 2)
+test_error of is_nested
+check_dict_case EOL while scanning string literal (<string>, line 2)
+rolling_max invalid character '¡¯' (U+2019) (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+fib invalid character '¡¯' (U+2019) (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+test_error of is_nested
+get_positive invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+largest_divisor invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+do_algebra EOL while scanning string literal (<string>, line 2)
+test_error of do_algebra
+do_algebra invalid character '¡¯' (U+2019) (<string>, line 2)
+test_error of do_algebra
+do_algebra EOL while scanning string literal (<string>, line 2)
+do_algebra EOL while scanning string literal (<string>, line 2)
+test_error of do_algebra
+check_dict_case invalid character '¡¯' (U+2019) (<string>, line 2)
+string_sequence EOL while scanning string literal (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+order_by_points EOL while scanning string literal (<string>, line 2)
+even_odd_count invalid character '¡¯' (U+2019) (<string>, line 2)
+is_prime invalid character '¡¯' (U+2019) (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+is_nested invalid syntax (<string>, line 2)
+is_multiply_prime EOL while scanning string literal (<string>, line 2)
+sum_to_n invalid character '¡¯' (U+2019) (<string>, line 2)
+how_many_times invalid character '¡¯' (U+2019) (<string>, line 2)
+check_if_last_char_is_a_letter invalid character '¡¯' (U+2019) (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+compare invalid character '¡¯' (U+2019) (<string>, line 2)
+test_error of is_nested
+digitSum invalid syntax (<string>, line 2)
+longest invalid character '¡¯' (U+2019) (<string>, line 2)
+count_distinct_characters EOL while scanning string literal (<string>, line 2)
+rolling_max invalid character '¡¯' (U+2019) (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+special_factorial EOL while scanning string literal (<string>, line 2)
+test_error of order_by_points
+get_positive EOL while scanning string literal (<string>, line 2)
+sort_numbers invalid character '¡¯' (U+2019) (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+count_upper EOL while scanning string literal (<string>, line 2)
+remove_vowels invalid character '¡¯' (U+2019) (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+max_fill invalid syntax (<string>, line 2)
+test_error of is_nested
+do_algebra invalid character '¡¯' (U+2019) (<string>, line 2)
+test_error of is_multiply_prime
+test_error of order_by_points
+right_angle_triangle invalid syntax (<string>, line 2)
+test_error of largest_divisor
+test_error of is_nested
+digits invalid character '¡¯' (U+2019) (<string>, line 2)
+test_error of order_by_points
+right_angle_triangle The provided lengths do not satisfy the triangle inequality.
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+check_if_last_char_is_a_letter invalid character '¡¯' (U+2019) (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+do_algebra invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+do_algebra EOL while scanning string literal (<string>, line 2)
+test_error of do_algebra
+string_sequence EOL while scanning string literal (<string>, line 2)
+longest invalid character '¡¯' (U+2019) (<string>, line 2)
+largest_divisor invalid character '¡¯' (U+2019) (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+compare invalid character '¡¯' (U+2019) (<string>, line 2)
+remove_vowels EOL while scanning string literal (<string>, line 2)
+is_nested EOL while scanning string literal (<string>, line 2)
+even_odd_count EOL while scanning string literal (<string>, line 2)
+is_multiply_prime invalid character '¡¯' (U+2019) (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+digits EOL while scanning string literal (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+do_algebra invalid character '¡¯' (U+2019) (<string>, line 2)
+hex_key invalid character '¡¯' (U+2019) (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+order_by_points EOL while scanning string literal (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+can_arrange EOL while scanning string literal (<string>, line 2)
+is_prime invalid character '¡¯' (U+2019) (<string>, line 2)
+count_upper EOL while scanning string literal (<string>, line 2)
+sort_numbers invalid character '¡¯' (U+2019) (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+test_error of is_nested
+digitSum invalid syntax (<string>, line 2)
+check_dict_case invalid character '¡¯' (U+2019) (<string>, line 2)
+special_factorial EOL while scanning string literal (<string>, line 2)
+check_if_last_char_is_a_letter EOL while scanning string literal (<string>, line 2)
+test_error of do_algebra
+max_fill invalid character '¡¯' (U+2019) (<string>, line 2)
+test_error of is_nested
+test_error of order_by_points
+rolling_max invalid character '¡¯' (U+2019) (<string>, line 2)
+test_error of is_nested
+count_distinct_characters EOL while scanning string literal (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+how_many_times invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+order_by_points invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+string_sequence invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+digits invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+compare invalid syntax (<string>, line 2)
+rolling_max invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+test_error of order_by_points
+get_positive invalid syntax (<string>, line 2)
+is_prime invalid syntax (<string>, line 2)
+is_nested invalid syntax (<string>, line 2)
+is_multiply_prime invalid syntax (<string>, line 2)
+digitSum invalid syntax (<string>, line 2)
+special_factorial invalid syntax (<string>, line 2)
+how_many_times invalid syntax (<string>, line 2)
+sort_numbers invalid syntax (<string>, line 2)
+test_error of order_by_points
+max_fill invalid syntax (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+check_dict_case invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+test_error of order_by_points
+sum_to_n invalid syntax (<string>, line 2)
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+filter_by_prefix invalid syntax (<string>, line 2)
+test_error of is_nested
+hex_key invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+do_algebra invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+compare invalid syntax (<string>, line 2)
+digitSum invalid syntax (<string>, line 2)
+digits invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+sort_numbers invalid syntax (<string>, line 2)
+is_nested invalid syntax (<string>, line 2)
+is_prime invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of is_nested
+count_upper invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+check_dict_case invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+is_multiply_prime invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+max_fill invalid syntax (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+test_error of largest_divisor
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+do_algebra invalid syntax (<string>, line 2)
+test_error of order_by_points
+rolling_max invalid syntax (<string>, line 2)
+test_error of is_nested
+test_error of order_by_points
+special_factorial invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+how_many_times invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+digitSum invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+rolling_max invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+how_many_times invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+digits invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+is_multiply_prime invalid syntax (<string>, line 2)
+is_nested invalid syntax (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+sort_numbers invalid syntax (<string>, line 2)
+special_factorial invalid syntax (<string>, line 2)
+check_dict_case invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+is_prime invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+words_string invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+compare invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+test_error of is_nested
+do_algebra invalid syntax (<string>, line 2)
+test_error of largest_divisor
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+max_fill invalid syntax (<string>, line 2)
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+do_algebra unsupported operand type(s) for -=: 'tuple' and 'int'
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of is_nested
+test_error of is_nested
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+count_upper invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+test_error of order_by_points
+count_distinct_characters invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+can_arrange invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+test_error of order_by_points
+string_sequence invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+fib invalid syntax (<string>, line 2)
+test_error of order_by_points
+words_string invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+words_string invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+count_upper invalid syntax (<string>, line 2)
+filter_by_prefix invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+even_odd_count invalid syntax (<string>, line 2)
+count_distinct_characters invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+sum_to_n invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+remove_vowels invalid syntax (<string>, line 2)
+get_positive invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+largest_divisor invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+hex_key invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+order_by_points invalid syntax (<string>, line 2)
+test_error of order_by_points
+hex_key invalid syntax (<string>, line 2)
+longest invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+right_angle_triangle invalid syntax (<string>, line 2)
+string_sequence invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+order_by_points invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+order_by_points invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of order_by_points
+is_nested invalid syntax (<string>, line 2)
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+is_nested invalid syntax (<string>, line 2)
+test_error of is_nested
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+order_by_points invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+order_by_points invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+order_by_points invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+is_nested invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+is_nested invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+order_by_points invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of is_nested
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of do_algebra
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+order_by_points invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+order_by_points invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+order_by_points invalid syntax (<string>, line 2)
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+order_by_points invalid syntax (<string>, line 2)
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of check_if_last_char_is_a_letter
+test_error of order_by_points
+test_error of is_nested
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of check_if_last_char_is_a_letter
+test_error of is_nested
+test_error of is_nested
+test_error of is_nested
+check_if_last_char_is_a_letter invalid syntax (<string>, line 2)
+test_error of median
+test_error of fix_spaces
+test_error of fix_spaces
+test_error of bf
+bf expected an indented block (<string>, line 26)
+iscube type complex doesn't define __round__ method
+sort_third invalid syntax (<string>, line 34)
+test_error of eat
+test_error of eat
+test_error of eat
+sort_third invalid syntax (<string>, line 34)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of intersection
+test_error of median
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+test_error of car_race_collision
+test_error of car_race_collision
+test_error of car_race_collision
+test_error of car_race_collision
+test_error of minPath
+test_error of minPath
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of generate_integers
+test_error of sort_array
+test_error of sort_array
+test_error of bf
+bf expected an indented block (<string>, line 26)
+sort_third invalid syntax (<string>, line 31)
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of tri
+test_error of tri
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of intersection
+test_error of sort_array
+test_error of sort_array
+test_error of bf
+bf expected an indented block (<string>, line 26)
+sort_third invalid syntax (<string>, line 31)
+test_error of sort_array
+test_error of sort_array
+test_error of get_closest_vowel
+test_error of tri
+test_error of tri
+test_error of triples_sum_to_zero
+test_error of intersection
+test_error of median
+test_error of eat
+test_error of eat
+test_error of eat
+prime_fib name 'fibonacci_generator' is not defined
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of get_closest_vowel
+test_error of intersection
+test_error of tri
+test_error of tri
+test_error of triples_sum_to_zero
+test_error of encode
+test_error of encode
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of median
+sort_third invalid syntax (<string>, line 31)
+prime_fib name 'fibonacci_generator' is not defined
+test_error of triples_sum_to_zero
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+test_error of get_closest_vowel
+sort_third invalid syntax (<string>, line 26)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of encode
+test_error of encode
+test_error of triples_sum_to_zero
+test_error of sort_array
+test_error of sort_array
+tri list index out of range
+test_error of median
+prime_fib name 'fibonacci_generator' is not defined
+sort_third invalid syntax (<string>, line 29)
+test_error of bf
+test_error of bf
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of is_sorted
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of median
+sort_third invalid syntax (<string>, line 29)
+test_error of sort_array
+test_error of sort_array
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of triples_sum_to_zero
+test_error of intersection
+test_error of tri
+test_error of encode
+test_error of encode
+test_error of median
+prime_fib name 'fibonacci_generator' is not defined
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of intersection
+test_error of get_closest_vowel
+test_error of median
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of triples_sum_to_zero
+test_error of intersection
+test_error of encode
+test_error of encode
+sort_third invalid syntax (<string>, line 31)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+prime_fib name 'fibonacci_generator' is not defined
+test_error of sort_array
+test_error of sort_array
+test_error of tri
+test_error of tri
+test_error of median
+test_error of triples_sum_to_zero
+sort_third invalid syntax (<string>, line 26)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+prime_fib name 'fibonacci_generator' is not defined
+test_error of median
+test_error of sort_array
+test_error of sort_array
+sort_third invalid syntax (<string>, line 29)
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of triples_sum_to_zero
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of eat
+test_error of eat
+test_error of eat
+sort_third invalid syntax (<string>, line 29)
+test_error of sort_array
+test_error of sort_array
+test_error of median
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of eat
+test_error of eat
+test_error of eat
+prime_fib name 'fibonacci_generator' is not defined
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of median
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+test_error of tri
+tri list index out of range
+test_error of intersection
+test_error of sort_array
+test_error of sort_array
+prime_fib name 'fibonacci_generator' is not defined
+test_error of median
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of tri
+test_error of tri
+sort_third invalid syntax (<string>, line 31)
+test_error of triples_sum_to_zero
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+test_error of median
+test_error of bf
+test_error of bf
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of tri
+test_error of tri
+test_error of triples_sum_to_zero
+test_error of sort_array
+test_error of sort_array
+test_error of median
+test_error of eat
+test_error of eat
+test_error of eat
+sort_third invalid syntax (<string>, line 26)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of median
+sort_third invalid syntax (<string>, line 29)
+prime_fib name 'fibonacci_generator' is not defined
+test_error of bf
+bf expected an indented block (<string>, line 26)
+tri list index out of range
+test_error of sort_array
+test_error of sort_array
+sort_third invalid syntax (<string>, line 29)
+prime_fib name 'fibonacci_generator' is not defined
+test_error of bf
+test_error of bf
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of median
+test_error of tri
+tri list index out of range
+test_error of median
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of eat
+test_error of eat
+test_error of eat
+sort_third invalid syntax (<string>, line 31)
+test_error of tri
+test_error of tri
+test_error of median
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+test_error of median
+test_error of tri
+test_error of tri
+sort_third invalid syntax (<string>, line 26)
+test_error of triples_sum_to_zero
+sort_third invalid syntax (<string>, line 26)
+test_error of triples_sum_to_zero
+test_error of tri
+test_error of tri
+sort_third invalid syntax (<string>, line 29)
+test_error of triples_sum_to_zero
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of triples_sum_to_zero
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of triples_sum_to_zero
+test_error of triples_sum_to_zero
+test_error of triples_sum_to_zero
+test_error of sort_array
+test_error of sort_array
+sort_third invalid syntax (<string>, line 32)
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of generate_integers
+test_error of circular_shift
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of sort_array
+test_error of sort_array
+sort_third invalid syntax (<string>, line 29)
+test_error of car_race_collision
+test_error of car_race_collision
+test_error of car_race_collision
+test_error of car_race_collision
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of circular_shift
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of tri
+test_error of tri
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of median
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+sort_third invalid syntax (<string>, line 29)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of circular_shift
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+iscube type complex doesn't define __round__ method
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of bf
+bf expected an indented block (<string>, line 26)
+sort_third invalid syntax (<string>, line 29)
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of circular_shift
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of is_sorted
+test_error of sort_array
+test_error of sort_array
+test_error of median
+test_error of tri
+test_error of tri
+test_error of circular_shift
+sort_third invalid syntax (<string>, line 31)
+test_error of intersection
+test_error of sort_array
+test_error of sort_array
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of get_closest_vowel
+test_error of is_sorted
+sort_third invalid syntax (<string>, line 26)
+test_error of circular_shift
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of circular_shift
+test_error of sort_array
+test_error of sort_array
+test_error of tri
+test_error of tri
+test_error of is_sorted
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of median
+sort_third invalid syntax (<string>, line 29)
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of intersection
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of get_closest_vowel
+test_error of circular_shift
+test_error of median
+sort_third invalid syntax (<string>, line 29)
+test_error of triples_sum_to_zero
+test_error of intersection
+test_error of tri
+test_error of tri
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of median
+test_error of is_sorted
+test_error of eat
+test_error of eat
+test_error of eat
+sort_third invalid syntax (<string>, line 34)
+test_error of triples_sum_to_zero
+test_error of circular_shift
+test_error of sort_array
+test_error of sort_array
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of is_sorted
+test_error of circular_shift
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of median
+sort_third invalid syntax (<string>, line 29)
+test_error of circular_shift
+test_error of is_sorted
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of sort_array
+test_error of sort_array
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of sort_array
+test_error of sort_array
+sort_third invalid syntax (<string>, line 29)
+test_error of circular_shift
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of is_sorted
+test_error of median
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of bf
+bf expected an indented block (<string>, line 26)
+sort_third invalid syntax (<string>, line 29)
+test_error of circular_shift
+test_error of tri
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of median
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of sort_array
+test_error of sort_array
+test_error of circular_shift
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of is_sorted
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of circular_shift
+sort_third invalid syntax (<string>, line 34)
+test_error of median
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of sort_array
+test_error of sort_array
+test_error of tri
+test_error of tri
+test_error of circular_shift
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+sort_third invalid syntax (<string>, line 29)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of median
+test_error of get_closest_vowel
+test_error of eat
+test_error of eat
+test_error of eat
+sort_third invalid syntax (<string>, line 29)
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of get_closest_vowel
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+test_error of circular_shift
+sort_third invalid syntax (<string>, line 19)
+test_error of median
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of tri
+test_error of tri
+test_error of circular_shift
+test_error of median
+test_error of sort_array
+test_error of sort_array
+test_error of circular_shift
+test_error of median
+test_error of tri
+test_error of tri
+test_error of sort_array
+test_error of sort_array
+sort_third invalid syntax (<string>, line 31)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of circular_shift
+test_error of median
+sort_third invalid syntax (<string>, line 26)
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of eat
+test_error of eat
+test_error of eat
+sort_third invalid syntax (<string>, line 26)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of median
+test_error of tri
+test_error of tri
+test_error of tri
+sort_third invalid syntax (<string>, line 26)
+test_error of median
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of median
+test_error of median
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of median
+prime_fib name 'fibonacci_generator' is not defined
+test_error of iscube
+test_error of get_closest_vowel
+test_error of get_closest_vowel
+test_error of triples_sum_to_zero
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of median
+test_error of generate_integers
+test_error of fix_spaces
+test_error of fix_spaces
+prime_fib name 'fibonacci_generator' is not defined
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of bf
+bf expected an indented block (<string>, line 26)
+sort_third invalid syntax (<string>, line 31)
+test_error of triples_sum_to_zero
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of median
+test_error of fix_spaces
+test_error of fix_spaces
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+prime_fib name 'fibonacci_generator' is not defined
+test_error of bf
+bf expected an indented block (<string>, line 26)
+sort_third invalid syntax (<string>, line 26)
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+test_error of median
+test_error of fix_spaces
+test_error of fix_spaces
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of tri
+test_error of tri
+tri list index out of range
+test_error of triples_sum_to_zero
+sort_third invalid syntax (<string>, line 29)
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of circular_shift
+test_error of sort_array
+test_error of sort_array
+test_error of fix_spaces
+test_error of fix_spaces
+test_error of car_race_collision
+test_error of car_race_collision
+test_error of car_race_collision
+test_error of car_race_collision
+prime_fib name 'fibonacci_generator' is not defined
+test_error of is_sorted
+test_error of triples_sum_to_zero
+sort_third invalid syntax (<string>, line 26)
+test_error of median
+test_error of tri
+test_error of sort_array
+test_error of sort_array
+test_error of circular_shift
+minPath unsupported operand type(s) for +: 'int' and 'str'
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of circular_shift
+test_error of median
+test_error of tri
+test_error of tri
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of triples_sum_to_zero
+test_error of bf
+bf expected an indented block (<string>, line 26)
+prime_fib name 'fibonacci_generator' is not defined
+sort_third invalid syntax (<string>, line 31)
+test_error of circular_shift
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+test_error of median
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of triples_sum_to_zero
+prime_fib name 'fibonacci_generator' is not defined
+sort_third invalid syntax (<string>, line 26)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+prime_fib name 'fibonacci_generator' is not defined
+test_error of median
+test_error of sort_array
+test_error of sort_array
+sort_third invalid syntax (<string>, line 26)
+test_error of circular_shift
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of triples_sum_to_zero
+prime_fib name 'fibonacci_generator' is not defined
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of circular_shift
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of sort_array
+test_error of sort_array
+sort_third invalid syntax (<string>, line 26)
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of tri
+test_error of tri
+test_error of median
+prime_fib name 'fibonacci_generator' is not defined
+test_error of circular_shift
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+test_error of tri
+test_error of tri
+sort_third invalid syntax (<string>, line 31)
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of median
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of sort_array
+test_error of sort_array
+test_error of circular_shift
+prime_fib name 'fibonacci_generator' is not defined
+sort_third invalid syntax (<string>, line 26)
+test_error of bf
+test_error of bf
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+test_error of median
+test_error of sort_array
+test_error of sort_array
+test_error of tri
+test_error of tri
+test_error of tri
+prime_fib name 'fibonacci_generator' is not defined
+test_error of bf
+bf expected an indented block (<string>, line 26)
+sort_third invalid syntax (<string>, line 29)
+test_error of sort_array
+test_error of sort_array
+test_error of median
+test_error of triples_sum_to_zero
+sort_third invalid syntax (<string>, line 29)
+prime_fib name 'fibonacci_generator' is not defined
+test_error of tri
+test_error of tri
+test_error of sort_array
+test_error of sort_array
+test_error of triples_sum_to_zero
+test_error of median
+test_error of sort_array
+test_error of sort_array
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+test_error of median
+test_error of tri
+test_error of tri
+prime_fib name 'fibonacci_generator' is not defined
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+sort_third invalid syntax (<string>, line 31)
+test_error of median
+test_error of sort_array
+test_error of sort_array
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+prime_fib name 'fibonacci_generator' is not defined
+test_error of circular_shift
+sort_third invalid syntax (<string>, line 26)
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+test_error of median
+prime_fib name 'fibonacci_generator' is not defined
+test_error of circular_shift
+test_error of sort_array
+test_error of sort_array
+sort_third invalid syntax (<string>, line 29)
+test_error of sort_array
+test_error of sort_array
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of bf
+bf expected an indented block (<string>, line 26)
+sort_third invalid syntax (<string>, line 29)
+prime_fib name 'fibonacci_generator' is not defined
+test_error of circular_shift
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of median
+test_error of eat
+test_error of eat
+test_error of eat
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of triples_sum_to_zero
+test_error of sort_array
+test_error of sort_array
+test_error of circular_shift
+test_error of tri
+test_error of tri
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of median
+sort_third invalid syntax (<string>, line 34)
+test_error of triples_sum_to_zero
+prime_fib name 'fibonacci_generator' is not defined
+test_error of sort_array
+test_error of sort_array
+test_error of bf
+bf expected an indented block (<string>, line 26)
+test_error of median
+sort_third invalid syntax (<string>, line 27)
+test_error of circular_shift
+prime_fib name 'fibonacci_generator' is not defined
+test_error of triples_sum_to_zero
+test_error of tri
+test_error of tri
+test_error of tri
+sort_third invalid syntax (<string>, line 29)
+test_error of circular_shift
+test_error of median
+prime_fib name 'fibonacci_generator' is not defined
+test_error of triples_sum_to_zero
+sort_third invalid syntax (<string>, line 29)
+test_error of circular_shift
+prime_fib name 'fibonacci_generator' is not defined
+test_error of triples_sum_to_zero
+test_error of circular_shift
+test_error of triples_sum_to_zero
+test_error of tri
+test_error of tri
+test_error of circular_shift
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of tri
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of do_algebra
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of is_nested
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of is_nested
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points

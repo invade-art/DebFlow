@@ -66,11 +66,11 @@ class HotpotQABenchmark(BaseBenchmark):
             if (
                 score < 0.3
             ):  # We set the threshold for collecting incorrect questions to 0.3, as F1 Score cannot be simply judged using 0-1
-                flag = await find_same(q)
-                if flag:
-                    score = 1
-                else:
-                    self.log_mismatch(input_text, expected_output, output, extracted_output)
+                # flag = await find_same(q)
+                # if flag:
+                #     score = 1
+                # else:
+                self.log_mismatch(input_text, expected_output, output, extracted_output)
 
             return input_text, context_str, output, expected_output, score, cost
 

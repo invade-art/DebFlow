@@ -213,7 +213,7 @@ class Optimizer:
         return avg_score
 
     async def test(self):
-        rounds = [8]  # You can choose the rounds you want to test here.
+        rounds = [3]  # You can choose the rounds you want to test here.
         data = []
 
         graph_path = f"{self.root_path}/workflows_test"

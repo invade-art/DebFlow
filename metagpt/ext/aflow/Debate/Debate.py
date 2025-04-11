@@ -126,7 +126,7 @@ class Debate:
         print('++++++++++++++++++++++++++++++++++++++++++++++++mod++++++++++++++++++++++++++++++++++++++')
         print(self.mod)
 
-        for i in range(2):
+        for i in range(3):
             if self.mod != 'No':
                 if self.mod == 'affirmative':
                     return self.affirm_memory_lst[-1]

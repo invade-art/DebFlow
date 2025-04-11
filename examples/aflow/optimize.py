@@ -99,10 +99,10 @@ if __name__ == "__main__":
     config = EXPERIMENT_CONFIGS[args.dataset]
 
     models_config = ModelsConfig.default()
-    opt_llm_config1 = models_config.get("gpt-4o-mini")
+    opt_llm_config1 = models_config.get("deepseek-chat")
     opt_llm_config2 = models_config.get("claude-3-5-sonnet-20240620")
     judge =  models_config.get("claude-3-5-sonnet-20240620")
-    exec_llm_config = models_config.get("gpt-4o-mini")
+    exec_llm_config = models_config.get("deepseek-chat")
 
     download(["initial_rounds"], if_first_download=args.if_first_optimize)
 
