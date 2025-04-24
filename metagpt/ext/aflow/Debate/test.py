@@ -11,7 +11,7 @@ import os
 from openai import OpenAI
 import json
 
-key = "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"
+key = ""
 prompt = "Now please output your answer in json format, with the format as follows:  {\"preference\": \"Yes or No\", \"Supported Side\": \"Affirmative or Negative\", \"Reason\": \"\"}. Please strictly output in JSON format, do not output irrelevant content"
 # response = openai.ChatCompletion.create(
 #                     model="gpt-4o-mini",
