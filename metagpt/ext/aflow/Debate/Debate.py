@@ -30,7 +30,7 @@ from metagpt.ext.aflow.Debate.Debate_prompt import (
     moderator_logs_meta,
 )
 
-key = "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"
+key = ""
 QuestionType = Literal["math", "code", "qa"]
 OptimizerType = Literal["Graph", "Test"]
 

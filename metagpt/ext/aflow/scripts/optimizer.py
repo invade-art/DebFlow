@@ -152,65 +152,65 @@ class Optimizer:
             self.graph = self.graph_utils.load_graph(self.round, graph_path)
             avg_score = await self.evaluation_utils.evaluate_graph(self, directory, validation_n, data, initial=True)
 
-        # Create a loop until the generated graph meets the check conditions
-        while True:
-            directory = self.graph_utils.create_round_directory(graph_path, self.round + 1)
 
-            top_rounds = self.data_utils.get_top_rounds(self.sample)
-            sample = self.data_utils.select_round(top_rounds)
-
-            prompt, graph_load = self.graph_utils.read_graph_files(sample["round"], graph_path)
-            graph = self.graph_utils.extract_solve_graph(graph_load)
-
-            processed_experience = self.experience_utils.load_experience()
-            experience = self.experience_utils.format_experience(processed_experience, sample["round"])
-
-            operator_description = self.graph_utils.load_operators_description(self.operators)
-            log_data = self.data_utils.load_log(sample["round"])
-
-            #提示优化的prompt====>str
-            graph_optimize_prompt = self.graph_utils.create_graph_optimize_prompt(
-                experience, sample["score"], graph[0], prompt, operator_description, self.type, log_data
-            )
+        # select()
+        directory = self.graph_utils.create_round_directory(graph_path, self.round + 1)
+        top_rounds = self.data_utils.get_top_rounds(self.sample)
+        sample = self.data_utils.select_round(top_rounds)
 
 
-            # 使用上面的prompt来进行优化
-            graph_optimize_node = await ActionNode.from_pydantic(GraphOptimize).fill(
-                context=graph_optimize_prompt, mode="xml_fill", llm=self.optimize_llm
-            )
 
-            response = await self.graph_utils.get_graph_optimize_response(graph_optimize_node)
+        prompt, graph_load = self.graph_utils.read_graph_files(sample["round"], graph_path)
+        graph = self.graph_utils.extract_solve_graph(graph_load)
 
-            #Debate
-            # debate = Debate(prompt=graph_optimize_prompt, mode='xml_fill', llm1=self.optimize_llm, llm2=self.optimize_llm2, judge=self.judge,
-            #                 optimizer=self, log_data=log_data, experience=experience, score=sample["score"],
-            #                 operator_description=operator_description, types=self.type, node_graph=graph[0], node_prompt=prompt)
-            # response =await debate.run()
-            print("================================================debate response==========================================================")
-            print(response)
-            # Check if the modification meets the conditions
-            check = self.experience_utils.check_modification(
-                processed_experience, response["modification"], sample["round"]
-            )
+        processed_experience = self.experience_utils.load_experience()
+        experience = self.experience_utils.format_experience(processed_experience, sample["round"])
 
-            # If `check` is True, break the loop; otherwise, regenerate the graph
-            if check:
-                break
+        operator_description = self.graph_utils.load_operators_description(self.operators)
+        log_data = self.data_utils.load_log(sample["round"])
+
+        #提示优化的prompt====>str
+        graph_optimize_prompt = self.graph_utils.create_graph_optimize_prompt(
+            experience, sample["score"], graph[0], prompt, operator_description, self.type, log_data
+        )
+
+        # 使用上面的prompt来进行优化
+        graph_optimize_node = await ActionNode.from_pydantic(GraphOptimize).fill(
+            context=graph_optimize_prompt, mode="xml_fill", llm=self.optimize_llm
+        )
+        #
+        # response = await self.graph_utils.get_graph_optimize_response(graph_optimize_node)
+
+        #Debate
+        # debate = Debate(prompt=graph_optimize_prompt, mode='xml_fill', llm1=self.optimize_llm, llm2=self.optimize_llm2, judge=self.judge,
+        #                 optimizer=self, log_data=log_data, experience=experience, score=sample["score"],
+        #                 operator_description=operator_description, types=self.type, node_graph=graph[0], node_prompt=prompt)
+        # response =await debate.run()
+        # print("================================================debate response==========================================================")
+        # print(response)
+        # Check if the modification meets the conditions
+        # check = self.experience_utils.check_modification(
+        #     processed_experience, response["modification"], sample["round"]
+        # )
+
+        # If `check` is True, break the loop; otherwise, regenerate the graph
 
         # Save the graph and evaluate
-        self.graph_utils.write_graph_files(directory, response, self.round + 1, self.dataset)
+        # self.graph_utils.write_graph_files(directory, response, self.round + 1, self.dataset)
+        #
+        # experience = self.experience_utils.create_experience_data(sample, response["modification"])
+        #
+        # self.graph = self.graph_utils.load_graph(self.round + 1, graph_path)
+        #
+        # logger.info(directory)
+        #
+        # avg_score = await self.evaluation_utils.evaluate_graph(self, directory, validation_n, data, initial=False)
+        #
+        # self.experience_utils.update_experience(directory, experience, avg_score)
 
-        experience = self.experience_utils.create_experience_data(sample, response["modification"])
+        # return avg_score
+        return
 
-        self.graph = self.graph_utils.load_graph(self.round + 1, graph_path)
-
-        logger.info(directory)
-
-        avg_score = await self.evaluation_utils.evaluate_graph(self, directory, validation_n, data, initial=False)
-
-        self.experience_utils.update_experience(directory, experience, avg_score)
-
-        return avg_score
 
     async def test(self):
         rounds = [3]  # You can choose the rounds you want to test here.

@@ -69,7 +69,7 @@ def log_mismatch(problem, expected_output, prediction, predicted_number, path):
 
 async def find_same(q):
 
-        client = OpenAI(api_key="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", base_url="https://api.openai.com/v1")
+        client = OpenAI()
         prompt = """Compare the final answers in right_answer and model_output. Ignore any additional explanations or reasoning in model_output. 
                     If the final answer in model_output is logically consistent with right_answer, return only True. Otherwise, return False. 
                     Do not provide any explanation.
